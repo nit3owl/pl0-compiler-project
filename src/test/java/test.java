@@ -12,7 +12,7 @@ public class test
 		/*FileInputStream fis;
 		try
 		{
-			fis = new FileInputStream("test2.txt");	
+			fis = new FileInputStream("test_program_with_errors.txt");
 			int n = 0;
 			char c = ' ';
 			while(n != -1)
